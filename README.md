@@ -1,5 +1,3 @@
-``` markdown
-
 # NeuroStartUp
 
 ![](./logo.png)
